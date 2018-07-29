@@ -23,5 +23,12 @@ Topics covered in the entire course include:
 In the last 1.5 days of the course, the trainees are challenged to form teams and select a kaggle dataset to do some science.
 This part is included because Data Science often isn't a beaten path. You have to figure out what to do with a dataset and suggest meaningful insights.
 
+## Prequisite knowledge
+To be able to have smooth start with the contents found in this repository, the following skills are recommended:
+- Experience in programming with Python
+- Experience in working with python libraries meant for data science like pandas, numpy etc..
+- Some knowledge about basic statistics
+- A mind willing to learn
+
 ## Acknowledgments
 ...
