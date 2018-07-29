@@ -1,2 +1,27 @@
-# data-analytics-and-science
-Training material and references for Data Analytics and Data Science with Python
+# Data Analytics & Science
+> Training material and references for Data Analytics and Data Science with Python
+
+## Contents
+This repository contains 4 days worth of training materials.
+Each day contains data sets, exercises, slides, and references to books worth reading.
+
+Besides focusing on Data Science skills, this course also includes hard skills useful in programming like Git, writing clean code, and unit testing.
+
+Topics covered in the entire course include:
+- Working with Git
+- Writing clean code in Python
+- When and how to unit test in Python
+- Machine learning with Python
+- Data wrangling with Python
+- Statistical methods in Python
+	- Supervised and unsupervised learning
+	- Regression
+	- Classification
+	- Principal component analysis
+	- Clustering
+
+In the last 1.5 days of the course, the trainees are challenged to form teams and select a kaggle dataset to do some science.
+This part is included because Data Science often isn't a beaten path. You have to figure out what to do with a dataset and suggest meaningful insights.
+
+## Acknowledgments
+...
