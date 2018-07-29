@@ -10,7 +10,7 @@ Day one will have two problems to solve. You can spend your energy on one, or if
 ### Exercise 1: Loan prediction problem
 
 #### Description
-Original contest can be found [here](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/)
+Original contest can be found [here](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/)  
 Python notebooks provided are heavily inspired by [this tutorial](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 
 It is a good exercise to learn how to understand the data you are working with.
