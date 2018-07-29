@@ -32,6 +32,7 @@ The test set to validate your model can be found [here](./data/test.csv)
 - Do we have serious missing value problems in our data?
 	- Number of NA's
 	- How to fill in missing values? ([let me google that for you](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4))
+	- Missing values in machine learning ([let me google some more for you](https://towardsdatascience.com/handling-missing-values-in-machine-learning-part-1-dda69d4f88ca))
 
 - Can we draw some conclusions based on random correlations?
 	- Does having an education affect yearly income?

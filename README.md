@@ -38,6 +38,7 @@ To be able to have smooth start with the contents found in this repository, the 
 - [Discovering statistics - by Andy Field](https://www.discoveringstatistics.com/)
 - [Top algorithms to master as a Data Scientist](https://www.quora.com/What-are-the-top-algorithms-that-every-data-scientist-should-have-in-their-toolbox/answer/Rahul-Agarwal-10)
 - [What is Data Science](https://www.quora.com/What-is-data-science)
+- [Statistics used for machine learning](https://towardsdatascience.com/june-edition-probability-statistics-machine-learning-fab82bbe36b2)
 
 ## Acknowledgments
 ...
