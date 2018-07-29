@@ -21,7 +21,7 @@ The test set to validate your model can be found [here](./data/test.csv)
 | Property_Area | Urban / Semi Urban / Rural |
 | Loan_Status | Loan approved (Y/N) |
 
-# Solution directions and pointers
+# Possible Solution direction and pointers
 - Start by getting insights into the data
 	- Boxplot
 	- Histograms
@@ -41,3 +41,7 @@ The test set to validate your model can be found [here](./data/test.csv)
 - What would be a way to predict loan approval based on these data?
 	- Feature selection, which columns do you think matter? ([let me google that for you](https://towardsdatascience.com/why-how-and-when-to-apply-feature-selection-e9c69adfabf2))
 	- Feature engineering, can you work with the columns present, or do you need to add new ones? ([let me google that for you](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b))
+
+# How to submit
+Create a folder with your name e.g. john-doe inside the solutions folder and put your notebooks inside.
+Commit this to your own fork of the data-analytics-and-science repository and create a pull request to the main repository.

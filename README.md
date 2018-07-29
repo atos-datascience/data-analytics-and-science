@@ -36,6 +36,8 @@ To be able to have smooth start with the contents found in this repository, the 
 - [Clean code - by Robert C. Martin](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)
 - [Data science and Analytics with Python - By Jesus Rogel-Salazar](https://www.bol.com/nl/p/data-science-and-analytics-with-python/9200000073544412/)
 - [Discovering statistics - by Andy Field](https://www.discoveringstatistics.com/)
+- [Top algorithms to master as a Data Scientist](https://www.quora.com/What-are-the-top-algorithms-that-every-data-scientist-should-have-in-their-toolbox/answer/Rahul-Agarwal-10)
+- [What is Data Science](https://www.quora.com/What-is-data-science)
 
 ## Acknowledgments
 ...
