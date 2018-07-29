@@ -4,6 +4,7 @@ A company wants to automate the loan eligibility process (real time) based on cu
 # Data
 The training set can be found [here](./data/train.csv)  
 The test set to validate your model can be found [here](./data/test.csv)
+  
 | Variable | Description|
 |----------|------------|
 | Loan_ID  | Unique Loan ID |
