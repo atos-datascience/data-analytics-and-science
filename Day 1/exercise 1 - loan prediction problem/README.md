@@ -31,7 +31,7 @@ The test set to validate your model can be found [here](./data/test.csv)
 
 - Do we have serious missing value problems in our data?
 	- Number of NA's
-	- How to fill in missing values [let me google that for you](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
+	- How to fill in missing values? ([let me google that for you](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4))
 
 - Can we draw some conclusions based on random correlations?
 	- Does having an education affect yearly income?
@@ -39,5 +39,5 @@ The test set to validate your model can be found [here](./data/test.csv)
 	- Does an education in combination with the requested loan amount affect the approval of a loan?
 
 - What would be a way to predict loan approval based on these data?
-	- Feature selection, which columns do you think matter?
-	- Feature engineering, can you work with the columns present, or
+	- Feature selection, which columns do you think matter? ([let me google that for you](https://towardsdatascience.com/why-how-and-when-to-apply-feature-selection-e9c69adfabf2))
+	- Feature engineering, can you work with the columns present, or do you need to add new ones? ([let me google that for you](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b))
