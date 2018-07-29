@@ -30,5 +30,11 @@ To be able to have smooth start with the contents found in this repository, the 
 - Some knowledge about basic statistics
 - A mind willing to learn
 
+## Links
+[12 useful Pandas techniques in Python for Data manipulation](https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)
+[Kaggle - Data science awesomeness](https://www.kaggle.com)
+[Clean code - by Robert C. Martin](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)
+[Data science and Analytics with Python - By Jesus Rogel-Salazar](https://www.bol.com/nl/p/data-science-and-analytics-with-python/9200000073544412/)
+
 ## Acknowledgments
 ...
