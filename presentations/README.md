@@ -65,6 +65,23 @@ git status
 git remote -v
 ```
 
+## Making your first change
+Make a change, open a jupyter note book, do something cool.
+
+```bash
+# See the changes
+git status
+
+# Add changes to file tracker
+git add .
+
+# Add all changes to the tree
+git commit -m "Add making your first change to README"
+
+# Push changes to master on origin
+git push origin master
+```
+
 ## Resources
 - [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 - [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
