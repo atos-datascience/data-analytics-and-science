@@ -40,6 +40,8 @@ To be able to have smooth start with the contents found in this repository, the 
 - [Cross validation](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/)
 - [What is logistic regression](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r/)
 - [Statistics for those in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
+- [PEP-8 Python coding conventions](https://www.python.org/dev/peps/pep-0008/)
+- [Mapping categorical data in pandas](http://benalexkeen.com/mapping-categorical-data-in-pandas/)
 
 ## Acknowledgments
 ...
