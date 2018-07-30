@@ -39,6 +39,7 @@ To be able to have smooth start with the contents found in this repository, the 
 - [Statistics used for machine learning](https://towardsdatascience.com/june-edition-probability-statistics-machine-learning-fab82bbe36b2)
 - [Cross validation](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/)
 - [What is logistic regression](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r/)
+- [Statistics for those in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
 
 ## Acknowledgments
 ...

@@ -16,3 +16,6 @@ It will also provide basic Python methods for exploring and visualizing basic st
 Python notebook provided is heavily inspired by [this tutorial](https://towardsdatascience.com/linear-regression-in-python-predict-the-bay-areas-home-price-5c91c8378878)
 
 A good exercise that uses linear regression to predict home prices based on multiple features.
+
+### Exercise 3: Twitter sentiment analysis
+Classify tweets into either harmful or not.
