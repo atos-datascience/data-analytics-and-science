@@ -15,10 +15,8 @@ Topics covered in the entire course include:
 - Data wrangling with Python
 - Statistical methods in Python
 	- Supervised and unsupervised learning
-	- Regression
+	- Linear Regression
 	- Classification
-	- Principal component analysis
-	- Clustering
 
 In the last 1.5 days of the course, the trainees are challenged to form teams and select a kaggle dataset to do some science.
 This part is included because Data Science often isn't a beaten path. You have to figure out what to do with a dataset and suggest meaningful insights.
@@ -39,6 +37,8 @@ To be able to have smooth start with the contents found in this repository, the 
 - [Top algorithms to master as a Data Scientist](https://www.quora.com/What-are-the-top-algorithms-that-every-data-scientist-should-have-in-their-toolbox/answer/Rahul-Agarwal-10)
 - [What is Data Science](https://www.quora.com/What-is-data-science)
 - [Statistics used for machine learning](https://towardsdatascience.com/june-edition-probability-statistics-machine-learning-fab82bbe36b2)
+- [Cross validation](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/)
+- [What is logistic regression](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r/)
 
 ## Acknowledgments
 ...

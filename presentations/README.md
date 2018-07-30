@@ -17,6 +17,22 @@
 
 > __NOTE__: The following parts all use the commandline. Windows users are recommended to install a decent terminal. If you do not have one, the Git Bash terminal will work as well 
 
+## How to get started with GitHub
+Go to [GitHub](https://github.com) and create an account
+
+### Generating an SSH key
+On your command line, type the following
+```bash
+git config --global user.email "email@example.com"
+git config --global user.name "Mona Lisa"
+
+ssh-keygen -t rsa -C "email@example.com"
+
+cp ~/.ssh/id_rsa.pub > /dev/clipboard 
+```
+
+Now that you have copied your public SSH key to your keyboard, in GitHub go to Settings -> SSH and GPG keys and add your key with a nice label
+
 ## Creating your first git repository
 It is good practice to have your git repositories in one place.
 For the following paragraphs, our git folder will be in `C:\Users\user\Documents\`
@@ -31,11 +47,24 @@ cd git
 ```
 
 ### Create a local repository
+Go to the [repository for this course](https://github.com/atos-datascience/data-analytics-and-science) and press the Fork button in the top right
 
-## How to get started with GitHub
+This will fork the repository and create a local copy on your GitHub account. This copy can be edited, removed, destroyed, ruined I do not care.
+On that copy, Press clone or download and copy the URL you see.
 
-### Create a GitHub account
+Next, inside your git folder use the following command
+```bash
+git clone git@github.com:<your_name_here>/data-analytics-and-science.git
+```
 
-### Generating an SSH key
+It will create a data-analytics-and-science folder for you
+
+```bash
+cd data-analytics-and-science
+git status
+git remote -v
+```
 
 ## Resources
+- [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+- [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
