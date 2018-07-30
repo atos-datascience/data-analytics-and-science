@@ -82,6 +82,10 @@ git commit -m "Add making your first change to README"
 git push origin master
 ```
 
+## Opening a pull request
+
+## Updating local repository and keeping your fork in sync
+
 ## Resources
 - [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 - [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
