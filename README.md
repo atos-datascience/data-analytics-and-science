@@ -44,6 +44,7 @@ To be able to have smooth start with the contents found in this repository, the 
 - [Random forest on temparature data](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 
 ## Links
+- [5 clustering algorithms a data scientist should know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
 - [12 useful Pandas techniques in Python for Data manipulation](https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)
 - [Kaggle - Data science awesomeness](https://www.kaggle.com)
 - [Clean code - by Robert C. Martin](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)
