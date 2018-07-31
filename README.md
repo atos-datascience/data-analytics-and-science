@@ -28,6 +28,18 @@ To be able to have smooth start with the contents found in this repository, the 
 - Some knowledge about basic statistics
 - A mind willing to learn
 
+## Basic workflow for machine learning problems
+1) State the question and determine required data
+2) Acquire the data in an accessible format
+3) Identify and correct missing data points/anomalies as required
+4) Prepare the data for the machine learning model
+5) Establish a baseline model that you aim to exceed
+6) Train the model on the training data
+7) Make predictions on the test data
+8) Compare predictions to the known test set targets and calculate performance metrics
+9) If performance is not satisfactory, adjust the model, acquire more data, or try a different modeling technique
+10) Interpret model and report results visually and numerically
+
 ## Links
 - [12 useful Pandas techniques in Python for Data manipulation](https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)
 - [Kaggle - Data science awesomeness](https://www.kaggle.com)
