@@ -1,63 +1,35 @@
 # Data Analytics & Science
-> Training material and references for Data Analytics and Data Science with Python
+> Training material and references for Data Science and analytics with Python
 
 ## Contents
-This repository contains 4 days worth of training materials.
-Each day contains data sets, exercises, slides, and references to books worth reading.
+This repository contains training material in the form of references, example notebooks, and some challenging exercises.
+These exercises try to cover machine learnings basics like linear and logistic regression models, as well as classification through natural language processing.
 
-Besides focusing on Data Science skills, this course also includes hard skills useful in programming like Git, writing clean code, and unit testing.
-
-Topics covered in the entire course include:
-- Working with Git
-- Writing clean code in Python
-- When and how to unit test in Python
-- Machine learning with Python
-- Data wrangling with Python
-- Statistical methods in Python
-	- Supervised and unsupervised learning
-	- Linear Regression
-	- Classification
-
-In the last 1.5 days of the course, the trainees are challenged to form teams and select a kaggle dataset to do some science.
-This part is included because Data Science often isn't a beaten path. You have to figure out what to do with a dataset and suggest meaningful insights.
+Example notebooks have various content:
+- Supervised and unsupervised learning
+- Time series forecasting
+- Code snippets for basic clustering, correlation, A / B testing, heatmaps and more
+- Weather classification through decision trees
+- Using machine learning to figure out a diabetes use case
+- and more!
 
 ## Prequisite knowledge
-To be able to have smooth start with the contents found in this repository, the following skills are recommended:
-- Experience in programming with Python
-- Experience in working with python libraries meant for data science like pandas, numpy etc..
-- Some knowledge about basic statistics
-- A mind willing to learn
+If you are new to machine learning, or machine learning with python, we recommend the [learn machine learning](https://elitedatascience.com/learn-machine-learning) course. This course goes through Data Science, Statistics, and Math. All of which are explained by using Python!
 
-## Basic workflow for machine learning problems
-1) State the question and determine required data
-2) Acquire the data in an accessible format
-3) Identify and correct missing data points/anomalies as required
-4) Prepare the data for the machine learning model
-5) Establish a baseline model that you aim to exceed
-6) Train the model on the training data
-7) Make predictions on the test data
-8) Compare predictions to the known test set targets and calculate performance metrics
-9) If performance is not satisfactory, adjust the model, acquire more data, or try a different modeling technique
-10) Interpret model and report results visually and numerically
+If you have some basic Python skills and now a bit of statistics than you can jump into exercise 1 right away, and try to follow the tutorial that comes with it.
 
 ## Tutorials
+During the creation of this repository, we encountered many many tutorials which all explain things in a very clear and methodical way
 - [Random forest on temparature data](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
-
-## Links
-- [5 clustering algorithms a data scientist should know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
-- [12 useful Pandas techniques in Python for Data manipulation](https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)
-- [Kaggle - Data science awesomeness](https://www.kaggle.com)
-- [Clean code - by Robert C. Martin](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)
-- [Data science and Analytics with Python - By Jesus Rogel-Salazar](https://www.bol.com/nl/p/data-science-and-analytics-with-python/9200000073544412/)
-- [Discovering statistics - by Andy Field](https://www.discoveringstatistics.com/)
-- [Top algorithms to master as a Data Scientist](https://www.quora.com/What-are-the-top-algorithms-that-every-data-scientist-should-have-in-their-toolbox/answer/Rahul-Agarwal-10)
-- [What is Data Science](https://www.quora.com/What-is-data-science)
-- [Statistics used for machine learning](https://towardsdatascience.com/june-edition-probability-statistics-machine-learning-fab82bbe36b2)
-- [Cross validation](https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/)
-- [What is logistic regression](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r/)
-- [Statistics for those in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
-- [PEP-8 Python coding conventions](https://www.python.org/dev/peps/pep-0008/)
-- [Mapping categorical data in pandas](http://benalexkeen.com/mapping-categorical-data-in-pandas/)
+- ...
 
 ## Acknowledgments
-...
+This repository would not exist without the work of many great minds. In particular we would like to acknowledge:
+- [Kaggle](https://www.kaggle.com) for being awesome with their contests and varied data sets
+- [Towards datascience](https://towardsdatascience.com/) for having great blogs and tutorials, and for not giving a straight copy paste way of learning
+- [Elite datascience](https://elitedatascience.com) for providing fundamental data science knowledge in a very understandable way
+- [Data science and Analytics with Python - By Jesus Rogel-Salazar](https://www.bol.com/nl/p/data-science-and-analytics-with-python/9200000073544412/) - is an increadible book which we can suggest for any budding data scientist
+
+## Disclaimer
+This repository is solely meant for training purposes. We tried to include links to the original sources where possible.
+People are free to fork this repository and add more exercises, links, tutorials, and examples.
