@@ -26,6 +26,7 @@ During the creation of this repository, we encountered many many tutorials which
 ## Acknowledgments
 This repository would not exist without the work of many great minds. In particular we would like to acknowledge:
 - [Kaggle](https://www.kaggle.com) for being awesome with their contests and varied data sets
+- [Driven data](https://www.drivendata.org) for also having very cool competitions
 - [Towards datascience](https://towardsdatascience.com/) for having great blogs and tutorials, and for not giving a straight copy paste way of learning
 - [Elite datascience](https://elitedatascience.com) for providing fundamental data science knowledge in a very understandable way
 - [Data science and Analytics with Python - By Jesus Rogel-Salazar](https://www.bol.com/nl/p/data-science-and-analytics-with-python/9200000073544412/) - is an increadible book which we can suggest for any budding data scientist
